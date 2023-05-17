@@ -12,4 +12,5 @@ PROBLEM: CREATE A PROGRAM FOR CALCULATING THE PRICE OF A TRAIN TIKET WITH SPECIF
 10. create a variable for the price per km of tiket 
 11. create a variable for the price minors (-20%)
 12. create a variable for the price over65 (-40%)
+13. create a conditional statement with the full price and the 2 discount prices
 
