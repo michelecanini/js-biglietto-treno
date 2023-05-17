@@ -9,3 +9,7 @@ PROBLEM: CREATE A PROGRAM FOR CALCULATING THE PRICE OF A TRAIN TIKET WITH SPECIF
 7. ask the user the age of the passenger
 8. create a variable
 9. effect debug in the console
+10. create a variable for the price per km of tiket 
+11. create a variable for the price minors (-20%)
+12. create a variable for the price over65 (-40%)
+

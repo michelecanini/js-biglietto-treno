@@ -14,3 +14,13 @@ console.log (age_passenger)
 
 document.getElementById('km_travel').innerHTML += ` ${km_travel}`
 document.getElementById('age_passenger').innerHTML += ` ${age_passenger}`
+
+let price_km = 0.21
+console.log (price_km)
+let price_minors = 0.21 / 5 * 4
+console.log (price_minors)
+let price_over = 0.21 / 5 * 3
+console.log (price_over)
+
+document.getElementById('price_tiket').innerHTML += ` ${km_travel * price_km}`
+
