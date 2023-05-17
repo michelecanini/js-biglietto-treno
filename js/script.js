@@ -26,7 +26,8 @@ if (age_passenger <= 17){
 document.getElementById('price_tiket').innerHTML += ` ${km_travel * price_minors}`
 }else if ((age_passenger >= 18) && (age_passenger < 65)){ 
     document.getElementById('price_tiket').innerHTML += ` ${km_travel * price_km}`
-}else (age_passenger >= 65)
+}else if (age_passenger >= 65){
     document.getElementById('price_tiket').innerHTML += ` ${km_travel * price_over}`
+}
 
 
