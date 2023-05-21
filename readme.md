@@ -18,7 +18,7 @@ PROBLEM: CREATE A PROGRAM FOR CALCULATING THE PRICE OF A TRAIN TIKET WITH SPECIF
 15 - IF - age is >=18 && <= 65 apply price per km of tiket<br>
     15.1 : ELSE - Go ahead<br>
 16 - IF - age is > 65 apply price discount -40%<br>
-    13.1 : ELSE - Go ahead<br>
+    16.1 : ELSE - Go ahead<br>
 17 - print price with only 2 decimal numbers (toFixed)
 
 
